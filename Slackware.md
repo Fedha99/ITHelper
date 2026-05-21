@@ -1,0 +1,15 @@
+#sub-OS 
+## Berikut Juga Keluarga Slackware
+- [[Salix OS]]
+- [[Zenwalk]]
+- [[Absolute Linux]]
+- [[Slax]]
+- [[Porteus]]
+- [[VectorLinux]]
+- [[Plamo Linux]]
+- [[Slamd64]]
+- [[Frugalware]]
+- [[Bluewhite64]]
+- [[Topologilinux]]
+- [[College Linux]]
+- [[SUSE Linux]]
